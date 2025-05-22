@@ -1,3 +1,11 @@
+<style>
+body {
+  background-color: #0d1117;
+  color: #c9d1d9;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+</style>
+
 # ¡Cachorros en adopción responsable!
 
 Presentamos a nuestros siete pequeños:<br/>
