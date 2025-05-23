@@ -30,7 +30,9 @@ Queremos asegurarnos de que cada uno de ellos llegue al hogar ideal.
 
 ## Sus padres
 Para que os hagáis una idea, aquí sus padres.<br/>
-<img src="dogs/padres.jpg" width="70%"/>
+<div align="center">
+  <img src="dogs/padres.jpg" width="70%"/>
+</div>
 
 ## Los cachorros
 <div align="center">
@@ -41,4 +43,4 @@ Para que os hagáis una idea, aquí sus padres.<br/>
   <img src="dogs/mochi.jpg" width="70%"/>
   <img src="dogs/lua.jpg" width="70%"/>
   <img src="dogs/polar.jpg" width="70%"/>
-</div>div align="center">
+</div>
