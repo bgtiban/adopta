@@ -33,10 +33,12 @@ Para que os hagáis una idea, aquí sus padres.<br/>
 <img src="dogs/padres.jpg" width="70%"/>
 
 ## Los cachorros
-<img src="dogs/po.jpg" width="70%"/>
-<img src="dogs/toffie.jpg" width="70%"/>
-<img src="dogs/perla.jpg" width="70%"/>
-<img src="dogs/zari.jpg" width="70%"/>
-<img src="dogs/mochi.jpg" width="70%"/>
-<img src="dogs/lua.jpg" width="70%"/>
-<img src="dogs/polar.jpg" width="70%"/>
+<div align="center">
+  <img src="dogs/po.jpg" width="70%"/>
+  <img src="dogs/toffie.jpg" width="70%"/>
+  <img src="dogs/perla.jpg" width="70%"/>
+  <img src="dogs/zari.jpg" width="70%"/>
+  <img src="dogs/mochi.jpg" width="70%"/>
+  <img src="dogs/lua.jpg" width="70%"/>
+  <img src="dogs/polar.jpg" width="70%"/>
+</div>div align="center">
