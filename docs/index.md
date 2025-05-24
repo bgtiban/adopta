@@ -36,7 +36,6 @@ Para que os hagáis una idea, aquí sus padres.<br/>
 
 ## Los cachorros
 <div align="center">
-  <img src="dogs/po.jpg" width="70%"/>
   <img src="dogs/toffie.jpg" width="70%"/>
   <img src="dogs/perla.jpg" width="70%"/>
   <img src="dogs/zari.jpg" width="70%"/>
