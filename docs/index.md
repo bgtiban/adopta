@@ -10,7 +10,7 @@ body {
 
 Presentamos a nuestros siete pequeños:<br/>
 🩷 Zari, Mochi, Polar, Perla y Lúa<br/>
-🩵 Po y Toffie
+🩵 Toffie
 
 Nacidos el 11 de marzo de 2025, son cruce de podenco.
 Su mamá, de 13 kg, es mezcla de labrador y podenco, y su papá un podenco andaluz de unos 18 kg.
