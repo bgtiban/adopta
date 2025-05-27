@@ -8,7 +8,7 @@ body {
 
 # ¡Cachorros en adopción responsable!
 
-Presentamos a nuestros siete pequeños </br>
+Presentamos a nuestros siete pequeños <br/>
 🩷 Zari, Mochi, Polar, Perla y Lúa<br/>
 🔴 **Po y Toffee ya han sido adoptados** 🔴
 
