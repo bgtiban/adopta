@@ -6,7 +6,7 @@ body {
 }
 </style>
 
-# ¡Cachorros en adopción responsable!
+# ¡Cachorros en adopción!
 
 Presentamos a nuestros siete pequeños <br/>
 🩷 Zari, Mochi, Polar, Perla y Lúa<br/>
