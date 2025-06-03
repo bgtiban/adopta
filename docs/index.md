@@ -17,7 +17,7 @@ Su mamá, de 13 kg, es mezcla de labrador y podenco, y su papá un podenco andal
 
 Son cachorros sanos, cariñosos, juguetones y muy sociables. Tienen una vitalidad preciosa y están listos para encontrar una familia definitiva que les brinde amor, atención y un entorno seguro donde crecer felices.
 
-**Buscamos adopciones responsables.**<br/>
+**Buscamos adoptantes responsables.**<br/>
 
 Si estás interesado/a, escríbenos via WhatsApp al número 633554679,  contándonos un poco sobre ti y tu entorno:
 - ¿Quiénes componen la familia y sus edades?
