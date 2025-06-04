@@ -19,7 +19,7 @@ Son cachorros sanos, cariñosos, juguetones y muy sociables. Tienen una vitalida
 
 **Buscamos adoptantes responsables.**<br/>
 
-Si estás interesado/a, escríbenos via WhatsApp al número 633554679,  contándonos un poco sobre ti y tu entorno:
+Estamos en Almorox-Toledo, a una hora de madrid. Si estás interesado/a, escríbenos via WhatsApp al número 633554679,  contándonos un poco sobre ti y tu entorno:
 - ¿Quiénes componen la familia y sus edades?
 - ¿Tienes o has tenido animales antes?
 - ¿Dónde vives (provincia/localidad)?
