@@ -9,7 +9,7 @@ body {
 # ¡Cachorros en adopción!
 
 Presentamos a nuestros siete pequeños <br/>
-🩷 Zari, Mochi, Polar, Perla y Lúa<br/>
+🩷 Zari, Mochi, Polar y Lúa<br/>
 🔴 **Po, Toffee y Perla ya han sido adoptados** 🔴
 
 Nacidos el 11 de marzo de 2025, son cruce de podenco.
