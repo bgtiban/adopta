@@ -9,8 +9,8 @@ body {
 # ¡Cachorros en adopción!
 
 Presentamos a nuestros siete pequeños <br/>
-🩷 Zari, Mochi, Polar y Lúa<br/>
-🔴 **Po, Toffee y Perla ya han sido adoptados** 🔴
+🩷 Zari y Lúa<br/>
+🔴 **Po, Toffee, Perla, Polar y Mochi ya han sido adoptad@s** 🔴
 
 Nacidos el 11 de marzo de 2025, son cruce de podenco.
 Su mamá, de 13 kg, es mezcla de labrador y podenco, y su papá un podenco andaluz de unos 18 kg.
@@ -37,7 +37,5 @@ Para que os hagáis una idea, aquí sus padres.<br/>
 ## Los cachorros
 <div align="center">
   <img src="dogs/zari.jpg" width="100%"/>
-  <img src="dogs/mochi.jpg" width="100%"/>
   <img src="dogs/lua.jpg" width="100%"/>
-  <img src="dogs/polar.jpg" width="100%"/>
 </div>
